@@ -45,7 +45,7 @@ book:
       # footer text
 
   sidebar:
-    title: "Your Name Here"
+    title: "Gretchen Happel"
     logo: assets/sidebar-logo.png
     logo-alt: "Random negative space illustration"
     collapse-level: 2
@@ -78,6 +78,13 @@ book:
       - ica/ica-sample1.qmd
       - ica/ica-sample2.qmd
       - ica/quarto-demo.qmd
+      - ica/03-univariate-viz-exercises.qmd
+      - ica/04-bivariate-viz-exercises.qmd
+      - ica/05-multivariate-viz.qmd
+      - ica/06-spatial-viz.qmd
+      - ica/07-effective-viz.qmd
+      - ica/08-wrangling-verbs.qmd
+      - ica/09-dates.qmd
 
     - part: "Extras"
       chapters:
